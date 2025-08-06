@@ -2,8 +2,8 @@
 layout: page
 permalink: /repos/
 title: repos
-nav: true
-nav_order: 2
+nav: false
+nav_order: 8
 ---
 
 {% if site.data.repositories.github_users %}
