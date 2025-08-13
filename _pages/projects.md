@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-nav: false
+nav: true
 nav_order: 1
 display_categories: # [category 1, category 2, category 3], e.g. [AI, Ethics, Research]
 horizontal: True
